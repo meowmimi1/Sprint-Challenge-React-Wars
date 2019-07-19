@@ -14,15 +14,7 @@ return(
   </Card>
 )
 
-        <h1>
-            Name: {props.name}
-        </h1>
-        <p>
-            Height: {props.height}
-        </p>
-        <p>
-            Gender: {props.gender}
-        </p>
+    
     </div>
     
 )
